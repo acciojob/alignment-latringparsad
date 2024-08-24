@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+table.middle {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table.middle td, table.middle th {
+    padding: 1px;
+}
+
+table.middle .center {
+    text-align: center;
+}
+
+table.middle .right {
+    text-align: right;
+}
+
+#table-3 tr:first-child {
+    background-color: green;
+}
+
+#table-3 tr:last-child {
+    background-color: blue;
+}
