@@ -24,6 +24,3 @@ table.middle .right {
     background-color: blue;
 }
 
-table.middle td, table.middle th {
-    padding: 1px;
-}
