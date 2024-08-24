@@ -23,3 +23,7 @@ table.middle .right {
 #table-3 tr:last-child {
     background-color: blue;
 }
+
+table.middle td, table.middle th {
+    padding: 1px;
+}
